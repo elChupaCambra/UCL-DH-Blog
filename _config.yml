@@ -6,7 +6,7 @@
 name: UCL DH 2020-21 Blog
 
 # Short bio or description (displayed in the header)
-description: Posts from the best students this course has (or will) ever have ;)
+description: Posts from the best students this course will ever have ;)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.ucl.ac.uk/digital-humanities/sites/digital-humanities/files/styles/xl_image/public/ucldh-logo_0.png?itok=os24KijG
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: elChupaCambra/UCL-DH-Blog
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: # just type in your twitter handle
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
