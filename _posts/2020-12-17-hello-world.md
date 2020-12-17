@@ -13,7 +13,7 @@ Images should be uploaded to a folder within the ['images'](https://github.com/e
 ![Cute corgo]({{ site.baseurl }}/images/hello-world/corgi.jpg)
 Check out this cute lil' corgo!!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file, which can be found [here](https://github.com/elChupaCambra/UCL-DH-Blog/blob/main/_posts/hello-world.md).
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file, which can be found [here](https://github.com/elChupaCambra/UCL-DH-Blog/blob/main/_posts/2020-12-17-hello-world.md).
 Shoot me a message on the DH discord channel if you have any questions!
 
 Clau
